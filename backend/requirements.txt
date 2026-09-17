@@ -1,0 +1,21 @@
+# ==============================================================================
+# File: backend/requirements.txt
+# Owner: [P2 - Backend Core & API Engineer]
+# Priority: Priority 1
+#
+# PURPOSE:
+#   Python dependencies to be installed by the team.
+#
+# PACKAGES TO INCLUDE:
+#   - fastapi (Web framework)
+#   - uvicorn[standard] (ASGI server)
+#   - pydantic & pydantic-settings (Validation and configuration)
+#   - python-multipart (For multipart/form-data image uploads)
+#   - torch & torchvision (PyTorch deep learning runtime)
+#   - numpy (Numerical operations on image arrays)
+#   - albumentations (Patch normalization and transforms)
+#   - Pillow (Image decoding and format handling)
+#   - pytest & httpx (Testing framework and async client)
+#   - reportlab (Priority 2 - PDF forensic report generation)
+#   - efficientnet_pytorch (EfficientNet backbone model)
+# ==============================================================================
